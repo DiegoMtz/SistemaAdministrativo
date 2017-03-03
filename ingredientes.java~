@@ -1,0 +1,152 @@
+import java.io.*;
+import java.awt.*;
+import java.awt.event.*;
+import java.awt.TextField.*;
+import java.awt.Label.*;
+import javax.swing.JTable;
+import javax.swing.JScrollPane;
+
+public class ingredientes extends Frame implements ActionListener, WindowListener {
+  
+  //MENU COSTOS --> BOTON INGREDIENTES
+  
+ JScrollPane scroll;
+ JTable table;
+ Label titulo, mblogo, abajo;
+ Panel tabla, logo, atras;
+ Button regresar;
+  
+   public static void main (String[] args) throws IOException{
+   ingredientes fr= new ingredientes ();
+   fr.setSize(1370,725);
+   fr.setTitle("Mr.Brown");
+   fr.setVisible(true);
+   fr.setLocationRelativeTo(null);
+   
+      }
+  
+   public ingredientes() throws IOException{
+     setLayout(new BorderLayout());
+     
+    titulo= new Label( "Mr. Brown", Label.CENTER);
+    titulo.setFont(new Font("Serif", Font.BOLD, 35));
+    titulo.setBackground(Color.orange);
+    titulo.setForeground(Color.black);
+    add("North", titulo);
+    
+    abajo= new Label( "Ingredientes Individuales", Label.CENTER);
+    abajo.setFont(new Font("Serif", 4, 20));
+    abajo.setBackground(Color.orange);
+    abajo.setForeground(Color.black);
+    add("South", abajo);
+     
+   
+    Object[][] data = {
+    {"","","","",""},
+    {"","","","",""},
+    {"","","","",""},
+    {"","","","",""},
+    {"","","","",""},
+    {"","","","",""},
+    {"","","","",""},
+    {"","","","",""},
+    {"","","","",""},
+    {"","","","",""},  
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""}, 
+    {"","","","",""},   
+    };
+     Object[] nombres = {"Ingredientes",
+                        "Cantidad",
+                        "Costo Original",
+                        "Rendimiento",
+                        "Costo Real"};
+
+     
+     table = new JTable(data, nombres);
+     table.getTableHeader().setFont(new Font("Serif", 1, 16)); 
+     table.getTableHeader().setBackground(Color.gray); 
+     table.getTableHeader().setForeground(Color.white);
+     scroll = new JScrollPane();
+     scroll.setViewportView (table);
+
+     add("Center", scroll);
+   
+     atras= new Panel(new BorderLayout());
+     
+    regresar= new Button ("Regresar");
+    regresar.setBackground(Color.gray);
+    regresar.setForeground(Color.orange);
+    regresar.setFont(new Font("Serif",2, 16));
+    regresar.setBounds(25, 545, 80, 50);
+    
+    atras.add("South", regresar);
+    add("West", atras);
+    
+        regresar.addActionListener(this);
+    addWindowListener(this);
+   }
+   
+   public void actionPerformed(ActionEvent e) {
+    if(e.getSource()== regresar){
+      regresar.setBackground(Color.green);
+    }
+ }
+    public void windowClosing(WindowEvent e){
+            
+            System.exit(0);         
+                                                } //Sirve para salir del programa una vez que la ventana haya sido cerrada
+  
+   public void  windowActivated(WindowEvent e){
+   }
+   public void windowClosed(WindowEvent e){
+   }
+   public void windowDeactivated(WindowEvent e){
+   }
+   public void windowDeiconified(WindowEvent e){
+   }
+   public void windowIconified(WindowEvent e){
+   }
+
+   public void windowOpened(WindowEvent e)
+   {
+   }
+   }
+  

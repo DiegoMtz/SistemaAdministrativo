@@ -1,0 +1,44 @@
+Fecha        F  Baja	Nombre	                         SUCURSAL		Cuenta/Tarjeta	SUELDO DIARIO	DIAS TRABAJADOS	  Sueldo 	Fecha Pago	Comments          	Descuentos 	 Tiempo Extra	 Dia Festivo	 Pago 	Comments	Adicionales	 Columna1      IMSS	
+																			
+																			
+04/07/2015      1	OYERVIDES SALAZAR LARISA MONSERRAGARZA SADA     HOSSTES	 Efectivo           300.00            6	          1800.00         19-jul                                            -       	      	                     	-  			       			No         
+15/06/2015	2	ALVARADO CRISTIAN	         GARZA SADA		 Efectivo			      6				  19-jul			                    -  			                        -  						No	
+09/07/2015	3	ALVARADO MIGUEL	                 GARZA SADA		 Efectivo			      6				  19-jul						                    -  									No	
+10/12/2014	4	AMBRIZ SALAS FRANCISCO JAVIER	 GARZA SADA		 809960625			      6				  19-jul	Infonavit															No	
+29/06/2015	5	BOCANEGRA SUSANA	         GARZA SADA		 Efectivo			      6				  19-jul			                    -  			                        -			  			No	
+11/06/2015	6	CASTILLO GOMEZ RICARDO	         GARZA SADA		 Efectivo			      6				  19-jul			                    -  			                        -			  			No	
+12/06/2015	7	CEPEDA EDUARDO	                 GARZA SADA		 Efectivo			      6				  19-jul		                    -  	                    -  			                  	-	  			No	
+02/09/2013	8	CERDA VILLAREAL SUSAN YADIRA	 GARZA SADA		 808855356			      6				  19-jul			                    -  												No	
+21/10/2014	9	DE ALEJANDRO RADA BRANDON RAYMUNDGARZA SADA		 Efectivo		 	      6				  19-jul			                    -  												Si	
+21/10/2014	10	DE LEON LIMON KEVIN SAMUEL	 GARZA SADA		 Efectivo			      6				  19-jul			                    -  			                        -			  			No	
+26/11/2014	11	GARCIA EDUARDO	                 GARZA SADA		 Efectivo			      4				  19-jul		                    -  				                        -			  			No	
+23/12/2014	12	GONZALEZ CASTILLO PEDRO ERAZMO	 GARZA SADA		 Efectivo			      6				  19-jul						                    -  									No	
+02/07/2015	13	SALAS COMPEAN OSCAR EDUARDO	 GARZA SADA	COCINA	 Efectivo			      6				  19-jul			                    -  			                        - 			 			No	
+06/05/2014	14	HERNANDEZ CASTRO RAUL EFRAIN	 GARZA SADA		 808994895			      6				  19-jul			                    -  				                	        -		  		No	
+11/05/2015	15	HERRERA VAZQUEZ SILVIA VIVIANA	 GARZA SADA		 Efectivo			      6				  19-jul						                    -  									No	
+14/05/2015	16	JIMENEZ VILLEDAS FERNANDO	 GARZA SADA		 Efectivo			      5				  19-jul		                    -  				                        -						No	
+02/02/2015	17	JUAREZ VELAZQUEZ RAFAEL	         GARZA SADA		 Efectivo			      6				  19-jul			                    -  												No	
+24/03/2014	18	LOPEZ VELIZ OSIRIS ANAY	         GARZA SADA		 808953935			      6				  19-jul																	No	
+29/06/2015	19	MARTINEZ VARGAS LETICIA SUGEY	 GARZA SADA		 Efectivo			      6				  19-jul			                    -  			                        -			 			No	
+08/04/2015	20	MEDINA LOPEZ CARLOS ARIEL	 GARZA SADA		 Efectivo			      6				  19-jul			                    -  												No	
+27/01/2015	21	MONTIEL LATOUR ADRIAN	         GARZA SADA		 Efectivo			      6				  19-jul						                    -  									No	
+04/07/2015	22	PUENTE PEREZ OZMAR	         GARZA SADA		 Efectivo			      6				  19-jul			                    -  			                        -			  			No	
+08/04/2014	23	RAMIREZ TOVAR ROBERTO	         GARZA SADA		 808969998			      6				  19-jul											Bono						No	
+19/03/2015	24	ROCHA MORENO LUIS ALBERTO	 GARZA SADA		 Efectivo			      6				  19-jul			                    -  												Si	
+11/04/2015	25	ROMERO URIBE JOSE ARMANDO	 GARZA SADA		 Efectivo			      6				  19-jul						                    -  									No	
+22/09/2014	26	SANDOVAL SALAZAR LETICIA ESTHELA GARZA SADA		 810116781			      6				  19-jul											DIF SUELDO					No	
+09/07/2015	27	SEPULVEDA TREVIÑO JAVIER	 GARZA SADA		 Efectivo			      6				  19-jul			                    -  			                        - 			 			No	
+29/06/2015	28	SOSA VALDEZ NATALIE	         GARZA SADA		 Efectivo			     12				  19-jul						                    -  									No	
+11/05/2015	29	TIENDA ESTRADA ADNEIT ESMERALDA	 GARZA SADA		 Efectivo			      6				  19-jul			                    -  			                        -			  			Si	
+02/09/2013	30	TREVINO QUINTERO RAUL EFRAIN	 GARZA SADA		 808855429			      6				  19-jul			                    -  						Bono						No	
+28/11/2014	31	TRISTAN LONGORIA EDSON AMAURY	 GARZA SADA		 Efectivo			      6				  19-jul			                    -  												No	
+07/05/2015	32	VALDEZ PEREZ ADRIANA AZENETH	 GARZA SADA		 Efectivo		 	      6				  19-jul		                    -  	                    -  			          	        -  				No	
+02/09/2013	33	VAZQUEZ AGUILAR NESTOR ROGELIO	 GARZA SADA		 808855445			      6				  19-jul											Bono						No	
+16/06/2015	34	VELAZQUEZ URIEL	                 GARZA SADA		 Efectivo			      5				  19-jul			                    -  			                        -  			                        No	
+12/01/2015	35	VILLAREAL REYES  JOSE JESE	 GARZA SADA		 Efectivo			      6				  19-jul																	Si	
+02/09/2013	36	ZAPATA LOZANO RODRIGO DE JESUS	 GARZA SADA		 Efectivo														
+	        37	JOSE MANUEL SAMANIEGO	         GARZA SADA		 Efectivo							
+							
+																			
+																			
+					        

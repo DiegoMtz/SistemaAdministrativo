@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" build="" main="mrbrown" manifest="" root="" work="">
+    <createjar file="" flags="14"/>
+    <source>
+      <file active="true" name="costos.java" package="" timestamp="30-Aug-2016 20:31:27">
+        <select from="62" to="62"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="mrbrown.java" package="" timestamp="30-Aug-2016 20:32:00">
+        <select from="62" to="62"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="nomina.java" package="" timestamp="30-Aug-2016 20:32:44">
+        <select from="62" to="62"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
