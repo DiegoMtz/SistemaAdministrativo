@@ -1,2 +1,2 @@
 # Sistema Administrativo
-Sistema Administrativo desarrollado para un restaurante
+Sistema desarrollado para las operaciones administrativas de un restaurante
